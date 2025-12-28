@@ -1,5 +1,8 @@
 # Hooked on Science: How AI Helps Experts Engage the Public
 
+![tweetorial-hook-incubator](docs/stem-viral-hook-infographic.jpg)
+
+
 This viral hook generator build for science technology professionals based on the white paper [Tweetorial Hooks: Generative AI Tools to Motivate Science on Social Media](https://arxiv.org/pdf/2305.12265)
 
 ## THE CHALLENGE: Writing a Great Science "Hook"
@@ -44,7 +47,21 @@ Writers are essential for editing AI suggestions to add personal style, ensure a
 
 ***
 
+## Screenshots
 
+![Step 1](docs/screenshot-01.jpg)
+
+![Step 2](docs/screenshot-02.jpg)
+
+![Step 3](docs/screenshot-03.jpg)
+
+![Step 4](docs/screenshot-04.jpg)
+
+![Step 5](docs/screenshot-05.jpg)
+
+![Step 6](docs/screenshot-06.jpg)
+
+![Step 8](docs/screenshot-07.jpg)
 ## Run Locally
 
 **Prerequisites:**  Node.js
